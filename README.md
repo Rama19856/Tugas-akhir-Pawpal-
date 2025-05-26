@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Nama Anggota Kelompok
+## Nama Anggota Kelompok 7
 1.Aditya Rizki Ramadhan
 2.Beauty Alifya Maritza Murdani
 3.Mohammad Janis Aurelio Sebastian
