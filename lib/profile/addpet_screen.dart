@@ -10,8 +10,8 @@ import 'dart:typed_data';
 // import 'dart:convert'; // Tidak lagi diperlukan di sini karena Pet model yang menanganinya
 
 // Import model dan service yang sudah direvisi
-import 'pet.dart'; // Menggunakan pet.dart Anda (pastikan path ini benar)
-import 'pet_storage_service.dart'; // Pastikan path ini benar
+import '../pet/pet.dart'; // Menggunakan pet.dart Anda (pastikan path ini benar)
+import '../pet/pet_storage_service.dart'; // Pastikan path ini benar
 
 class AddPetScreen extends StatefulWidget {
   @override

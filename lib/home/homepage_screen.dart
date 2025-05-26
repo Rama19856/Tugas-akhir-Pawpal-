@@ -4,8 +4,8 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'account_screen.dart';
-import 'addpet_screen.dart';
+import '../profile/account_screen.dart';
+import '../profile/addpet_screen.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 
 class HomePageScreen extends StatefulWidget {

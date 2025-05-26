@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pawpal/conversation_screen.dart';
+import 'package:pawpal/chat/conversation_screen.dart';
 
 class ChatScreen extends StatefulWidget {
   @override

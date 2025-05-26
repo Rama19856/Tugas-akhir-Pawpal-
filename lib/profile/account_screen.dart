@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:pawpal/login_screen.dart';
+import 'package:pawpal/auth/login_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'addpet_screen.dart';
 import 'favorite_screen.dart';
-import 'homepage_screen.dart';
+import '../home/homepage_screen.dart';
 import 'cart_screen.dart'; // Add this line
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'dart:convert'; // For base64 encoding/decoding
-import 'package:pawpal/image_util.dart'; // Import ImageUtil
+import 'package:pawpal/utils/image_util.dart'; // Import ImageUtil
 
 class AccountScreen extends StatefulWidget {
   final List<String> favoritePosts;

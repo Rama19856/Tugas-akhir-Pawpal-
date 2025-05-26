@@ -5,7 +5,7 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/foundation.dart' show kIsWeb;
 
-import 'package:pawpal/product_management.dart';
+import 'package:pawpal/shoping/product_management.dart';
 import 'package:pawpal/checkout_screen.dart';
 import 'package:pawpal/product_managemnet.dart';
 

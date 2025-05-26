@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart'; // Import SharedPreferences
 
-import 'package:pawpal/forgotpassword_screen.dart';
+import 'package:pawpal/auth/forgotpassword_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   @override

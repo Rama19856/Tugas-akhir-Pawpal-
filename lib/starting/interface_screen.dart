@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:pawpal/info_screen.dart';
-import 'package:pawpal/login_screen.dart';
+import 'package:pawpal/starting/info_screen.dart';
+import 'package:pawpal/auth/login_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class InterfaceScreen extends StatefulWidget {

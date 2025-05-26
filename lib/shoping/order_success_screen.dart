@@ -1,7 +1,7 @@
 // lib/order_success_screen.dart
 
 import 'package:flutter/material.dart';
-import 'package:pawpal/homepage_screen.dart'; // Import HomePageScreen
+import 'package:pawpal/home/homepage_screen.dart'; // Import HomePageScreen
 
 class OrderSuccessScreen extends StatelessWidget {
   final String message; // Pesan yang akan ditampilkan

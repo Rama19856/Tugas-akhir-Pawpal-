@@ -4,8 +4,8 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
-import 'package:pawpal/pet.dart'; // Pastikan model Pet diimpor dengan benar
-import 'package:pawpal/pet_storage_service.dart'; // Pastikan PetStorageService diimpor dengan benar
+import 'package:pawpal/pet/pet.dart'; // Pastikan model Pet diimpor dengan benar
+import 'package:pawpal/pet/pet_storage_service.dart'; // Pastikan PetStorageService diimpor dengan benar
 
 class PetDetailScreen extends StatefulWidget {
   final Pet pet;

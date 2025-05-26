@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:pawpal/conversation_screen.dart';
-import 'package:pawpal/interface_screen.dart';
-import 'package:pawpal/register_screen.dart';
-import 'package:pawpal/homepage_screen.dart';
-import 'package:pawpal/marketplace_screen.dart';
-import 'package:pawpal/chat_screen.dart';
-import 'package:pawpal/account_screen.dart';
-import 'package:pawpal/favorite_screen.dart'; // Import FavoriteScreen
-import 'package:pawpal/login_screen.dart'; // Pastikan ini diimpor
-import 'package:pawpal/forgotpassword_screen.dart'; // Import ForgotPasswordScreen
-import 'package:pawpal/info_screen.dart';
+import 'package:pawpal/chat/conversation_screen.dart';
+import 'package:pawpal/starting/interface_screen.dart';
+import 'package:pawpal/auth/register_screen.dart';
+import 'package:pawpal/home/homepage_screen.dart';
+import 'package:pawpal/marketplace/marketplace_screen.dart';
+import 'package:pawpal/chat/chat_screen.dart';
+import 'package:pawpal/profile/account_screen.dart';
+import 'package:pawpal/profile/favorite_screen.dart'; // Import FavoriteScreen
+import 'package:pawpal/auth/login_screen.dart'; // Pastikan ini diimpor
+import 'package:pawpal/auth/forgotpassword_screen.dart'; // Import ForgotPasswordScreen
+import 'package:pawpal/starting/info_screen.dart';
 
 void main() {
   runApp(MyApp());

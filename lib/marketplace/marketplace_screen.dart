@@ -1,16 +1,16 @@
 // lib/marketplace_screen.dart
 
 import 'package:flutter/material.dart';
-import 'package:pawpal/addpet_screen.dart';
-import 'package:pawpal/homepage_screen.dart';
-import 'package:pawpal/pet.dart';
-import 'package:pawpal/pet_storage_service.dart';
-import 'package:pawpal/product_management.dart'; // Import ini untuk Product, ProductStorageService, dan AddProductScreen
+import 'package:pawpal/profile/addpet_screen.dart';
+import 'package:pawpal/home/homepage_screen.dart';
+import 'package:pawpal/pet/pet.dart';
+import 'package:pawpal/pet/pet_storage_service.dart';
+import 'package:pawpal/shoping/product_management.dart'; // Import ini untuk Product, ProductStorageService, dan AddProductScreen
 import 'package:pawpal/product_detail_screen.dart'; // Import halaman detail produk baru
 import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/foundation.dart' show kIsWeb;
-import 'package:pawpal/pet_detail_screen.dart';
+import 'package:pawpal/pet/pet_detail_screen.dart';
 import 'package:pawpal/product_managemnet.dart'; // <--- PASTIKAN PATH INI BENAR SESUAI LOKASI FILE ANDA
 
 class MarketplaceScreen extends StatefulWidget {

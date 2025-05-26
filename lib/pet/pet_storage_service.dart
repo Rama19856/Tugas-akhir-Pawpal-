@@ -1,7 +1,7 @@
 // lib/pet_storage_service.dart
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:pawpal/pet.dart'; // Import kelas Pet dari file yang baru dibuat
+import 'package:pawpal/pet/pet.dart'; // Import kelas Pet dari file yang baru dibuat
 
 class PetStorageService {
   static const String _petsKey = 'pets';
