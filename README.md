@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 ![cart](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/cart.png)  
 ![chatin](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/chatin.png)  
 ![chat](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/chat.png)  
-![adopsi](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/adopsi.png)  
+![adopsi](https://github.com/Rama19856/Tugas-akhir-Pawpal-/blob/main/image/adopsi.jpeg)  
 ![adopsi2](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/adopsi2.png)  
 ![updhewan](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/updhewan.png)  
 ![dashh](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/dashh.png)  
