@@ -14,7 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## Deskripsi
 
+Pet Pal adalah aplikasi yang memudahkan pemilik hewan peliharaan dalam mengelola profil lengkap hewan mereka, mulai dari data kesehatan hingga jadwal vaksinasi, sehingga perawatan hewan menjadi lebih terorganisir. Selain itu, Pet Pal juga menyediakan marketplace khusus yang memfasilitasi proses adopsi hewan peliharaan dengan mudah dan cepat, menghubungkan calon adopter dengan pemilik atau shelter hewan. Dengan desain yang user-friendly, aplikasi ini membantu meningkatkan kesejahteraan hewan dengan memperluas akses adopsi dan memberikan pengalaman perawatan yang lebih baik bagi para pecinta hewan.
 ## Screenshot hasil
 
 ![pwreset](https://raw.githubusercontent.com/Rama19856/Tugas-akhir-Pawpal-/main/image/pwreset.jpeg)  
